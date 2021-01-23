@@ -6,3 +6,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 Python3: 36ms
 Java: 3ms
+
+2. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) (medium)
+
+Python3: 28ms
+Java: 0ms
