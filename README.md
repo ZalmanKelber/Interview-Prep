@@ -19,5 +19,10 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 4. [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) (medium)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 32ms
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 32ms   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
+
+5. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) (hard)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 36ms       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 2ms
