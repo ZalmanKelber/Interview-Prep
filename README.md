@@ -4,15 +4,20 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 1. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) (easy)
 
-Python3: 36ms
-Java: 3ms
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 36ms   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 3ms
 
 2. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) (medium)
 
-Python3: 28ms
-Java: 0ms
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 28ms   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
 
 3. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) (medium)
 
-Python3: 20ms
-Java: 0ms
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 20ms   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
+
+4. [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) (medium)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 32ms
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
