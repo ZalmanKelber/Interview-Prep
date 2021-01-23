@@ -11,3 +11,8 @@ Java: 3ms
 
 Python3: 28ms
 Java: 0ms
+
+3. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) (medium)
+
+Python3: 20ms
+Java: 0ms
