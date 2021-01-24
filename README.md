@@ -38,7 +38,12 @@ A repository to keep track of my technical interview preparation with leetcode p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 56ms                 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
 
-8. [Boars to Save People](https://leetcode.com/problems/boats-to-save-people) (medium)
+8. [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) (medium)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 552ms                 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 3ms
+
+9. [Maximum Average Subarray](https://leetcode.com/problems/maximum-average-subarray-i) (easy)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 956ms                      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 7ms
