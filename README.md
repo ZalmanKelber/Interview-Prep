@@ -74,3 +74,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 144ms                         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 11ms
+
+15. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) (easy)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 32ms                         
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
