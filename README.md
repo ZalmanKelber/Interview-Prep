@@ -52,3 +52,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 124ms                      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 16ms
+
+11. [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) (medium)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 396ms                         
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 61ms
