@@ -99,3 +99,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 36ms                         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 2ms
+
+20. [Check if a String can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) (medium)    
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 148ms                         
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 22ms
