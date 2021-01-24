@@ -58,7 +58,14 @@ A repository to keep track of my technical interview preparation with leetcode p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 396ms                         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 61ms
 
+## January 24 2021
+
 12. [Sliding Window Median](https://leetcode.com/problems/sliding-window-median) (hard)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 6636ms                         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 67ms
+
+13. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) (easy)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 28ms                         
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
