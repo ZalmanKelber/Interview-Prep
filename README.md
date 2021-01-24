@@ -47,3 +47,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 956ms                      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 7ms
+
+10. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) (easy)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 124ms                      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 16ms
