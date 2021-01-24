@@ -79,3 +79,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 32ms                         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
+
+16. [Sort an Array](https://leetcode.com/problems/sort-an-array) (medium)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 164ms                         
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 7ms
