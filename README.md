@@ -32,3 +32,13 @@ A repository to keep track of my technical interview preparation with leetcode p
 6. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) (easy)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 56ms            
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 5ms
+
+7. [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) (medium)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 56ms                 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
+
+8. [Boars to Save People](https://leetcode.com/problems/boats-to-save-people) (medium)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 552ms                 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 3ms
