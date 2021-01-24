@@ -104,3 +104,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 148ms                         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 22ms
+
+21. [Minimum Domino Rotations for Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) (medium)     
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 1168ms                               
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 46ms
