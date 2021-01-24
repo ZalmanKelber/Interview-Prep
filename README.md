@@ -29,7 +29,7 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 ## January 23 2021
 
-6. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) (easy)
+6. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) (easy)     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 56ms            
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 5ms
 
@@ -62,7 +62,7 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 12. [Sliding Window Median](https://leetcode.com/problems/sliding-window-median) (hard)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 6636ms                         
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 996ms                         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 67ms
 
 13. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) (easy)
@@ -94,3 +94,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 64ms                         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 3ms
+
+19. [Check if Two String Arrays are Equivalnet](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) (easy)   
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 36ms                         
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 2ms
