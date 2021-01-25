@@ -109,3 +109,11 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 1168ms                               
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 46ms
+
+
+## January 25 2021     
+
+22. [Binary Searc](https://leetcode.com/problems/binary-search) (easy)    
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 232ms                              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
