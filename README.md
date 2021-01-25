@@ -117,3 +117,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 232ms                              
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
+
+23. [Find Minimum in Rotated Sorted Array](https://leetcode.com/explore/learn/card/binary-search/144/more-practices/1033/) (easy)    
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 36ms                              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
