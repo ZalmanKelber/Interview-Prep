@@ -136,5 +136,9 @@ A repository to keep track of my technical interview preparation with leetcode p
 26. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) (medium)     
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 80ms                              
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 10ms 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 10ms    
 
+27. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) (easy)      
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 28ms                              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 6ms 
