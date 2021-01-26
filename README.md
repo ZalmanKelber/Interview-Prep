@@ -161,4 +161,9 @@ A repository to keep track of my technical interview preparation with leetcode p
 31. [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) (medium)       
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 300ms                              
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 2ms
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 2ms   
+
+32. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) (hard)   
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 84ms                              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms 
