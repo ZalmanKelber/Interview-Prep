@@ -156,4 +156,9 @@ A repository to keep track of my technical interview preparation with leetcode p
 30. [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) (medium)     
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 48ms                              
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms    
+
+31. [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) (medium)       
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 300ms                              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 2ms
