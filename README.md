@@ -148,3 +148,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 36ms                              
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms 
 
+29. [Trime a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) (medium)     
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 40ms                              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms 
+
