@@ -167,3 +167,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 84ms                              
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 0ms 
+
+33. [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) (medium) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 308ms                              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 7ms 
