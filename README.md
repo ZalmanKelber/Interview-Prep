@@ -189,3 +189,10 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 64ms                              
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 7ms
+
+## January 30 2021    
+
+37. [Word Break](https://leetcode.com/problems/word-break) (medium)    
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 56ms                              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 5ms
