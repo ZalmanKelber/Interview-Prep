@@ -196,3 +196,8 @@ A repository to keep track of my technical interview preparation with leetcode p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 56ms                              
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 5ms
+
+38. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) (medium)    
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python3: 52ms                              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java: 1ms
