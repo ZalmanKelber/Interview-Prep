@@ -14,10 +14,6 @@ class Solution:
         """
         Returns a random shuffling of the array.
         """
-        q = deque([])
-        for num in self._list:
-            if random.random() > .5:
-                q.append(num)
-            else:
-                q.appendleft(num)
-        return q
+        copy = self._list[:]
+        random.shuffle(copy)
+        return copy
